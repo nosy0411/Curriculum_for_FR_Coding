@@ -25,7 +25,7 @@
   - vscode install : [vscode 설치 완벽 가이드](https://www.notion.so/noinho/vscode-254df8598e5442f88862659dd3b057d9)
     - 09.09 OT 전 깃허브 가입 및 vscode 설치 완료
     - vscode 설치 관련 문제, 또는 사용중 오류와 같은 문제는 언제든지 카톡으로 연락합니다. 
-  - 필요한 패키지는 [requirements.txt]()로 필요한 패키지 일괄 설치. 경로를 설정하고 명령창에 아래의 명령을 입력합니다.<br>
+  - 필요한 패키지는 [requirements.txt](https://github.com/nosy0411/Curriculum_for_FR_Coding/blob/master/requirements.txt)로 필요한 패키지 일괄 설치. 경로를 설정하고 명령창에 아래의 명령을 입력합니다.<br>
   - pip install -r requirements.txt
   - 이외 필요한 모듈은 명령창(Command)에 pip install '필요한 패키지 네임' 으로 설치
   - vscode extension : [필수, 유용한 extension](https://www.notion.so/noinho/vscode-extension-27f79093400a4d7e930804c6f81a1196)
@@ -59,7 +59,7 @@
 
 |Week|과제|
 |---|---|
-|**1주차**|[assignment_week1.ipynb]()|
+|**1주차**|[assignment_week1.ipynb](https://github.com/nosy0411/Curriculum_for_FR_Coding/blob/master/1.%20Basic/1%EC%A3%BC%EC%B0%A8/assignment_week1.ipynb)|
 |**2주차**|assignment_week2.ipynb|
 |**3주차**|assignment_week3.ipynb|
 |**4주차**|assignment_week4.ipynb|
