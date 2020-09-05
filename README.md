@@ -14,8 +14,8 @@
 ## 학습 개요 
 - 2020년 가을학기에 맞추어 총 9주차로 수업을 진행
 -  학회원들은 매주 월, 화터디로 나누어 실습 2시간을 진행
-    - 월터디 : 신민수(1-4주차), 하우종(5-9주차)
-    - 화터디 : 김민정(1-4주차), 노인호(5-9주차)
+    - 월터디 : 김민정(1-4주차), 노인호(5-9주차),
+    - 화터디 : 하우종(1-4주차), 신민수(5-9주차)
 - 과제는 매주 나올 예정으로 아래 과제항목을 참고
 - 실습환경
    - window 10
@@ -25,7 +25,8 @@
   - vscode install : [vscode 설치 완벽 가이드](https://www.notion.so/noinho/vscode-254df8598e5442f88862659dd3b057d9)
     - 09.09 OT 전 깃허브 가입 및 vscode 설치 완료
     - vscode 설치 관련 문제, 또는 사용중 오류와 같은 문제는 언제든지 카톡으로 연락합니다. 
-  - 필요한 패키지는 requirements.txt로 필요한 패키지 일괄 설치
+  - 필요한 패키지는 [requirements.txt]()로 필요한 패키지 일괄 설치. 경로를 설정하고 명령창에 아래의 명령을 입력합니다.<br>
+  - pip install -r requirements.txt
   - 이외 필요한 모듈은 명령창(Command)에 pip install '필요한 패키지 네임' 으로 설치
   - vscode extension : [필수, 유용한 extension](https://www.notion.so/noinho/vscode-extension-27f79093400a4d7e930804c6f81a1196)
   
@@ -58,7 +59,7 @@
 
 |Week|과제|
 |---|---|
-|**1주차**|assignment_week1.ipynb|
+|**1주차**|[assignment_week1.ipynb]()|
 |**2주차**|assignment_week2.ipynb|
 |**3주차**|assignment_week3.ipynb|
 |**4주차**|assignment_week4.ipynb|

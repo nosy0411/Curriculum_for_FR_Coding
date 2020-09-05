@@ -1,0 +1,12 @@
+pylint
+flake8
+beautifulsoup4
+selenium
+mpl_finance
+finance-datareader
+mplfinance
+plotly
+ipykernel
+nbformat
+requests
+yfinance
