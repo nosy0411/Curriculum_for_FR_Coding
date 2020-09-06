@@ -25,8 +25,12 @@
   - vscode install : [vscode 설치 완벽 가이드](https://www.notion.so/noinho/vscode-254df8598e5442f88862659dd3b057d9)
     - 09.09 OT 전 깃허브 가입 및 vscode 설치 완료
     - vscode 설치 관련 문제, 또는 사용중 오류와 같은 문제는 언제든지 카톡으로 연락합니다. 
-  - 필요한 패키지는 [requirements.txt](https://github.com/nosy0411/Curriculum_for_FR_Coding/blob/master/requirements.txt)로 필요한 패키지 일괄 설치. 경로를 설정하고 명령창에 아래의 명령을 입력합니다.<br>
-  - pip install -r requirements.txt
+  - 필요한 패키지는 [requirements.txt](https://github.com/nosy0411/Curriculum_for_FR_Coding/blob/master/requirements.txt)로 필요한 패키지 일괄 설치. 먼저 경로를 설정해야 합니다.<br> 
+  - (1) 여기서 경로를 설정하는 것이 중요합니다! 명령창에서 현재 requirements.txt가 있는 폴더에 경로가 정해져 있어야합니다.
+  - (2) 명령창에 아래의 명령을 입력합니다.
+    - pip install -r requirements.txt
+    - 중간에 오류가나면 오류를 기억해두고, 다른 패키지만 pip install '필요한 패키지 네임' 로 나머지를 설치합니다.
+    - (requirements에 나온 패키지를 직접 하나씩 pip install로 설치하셔도 무관합니다.)
   - 이외 필요한 모듈은 명령창(Command)에 pip install '필요한 패키지 네임' 으로 설치
   - vscode extension : [필수, 유용한 extension](https://www.notion.so/noinho/vscode-extension-27f79093400a4d7e930804c6f81a1196)
   
@@ -54,7 +58,7 @@
 - 과제의 기한은 해당 월,화 스터디 전날 자정까지입니다.
 - 과제 양식은 FR30_노인호_assignment_week1.ipynb로 통일합니다.
 - 본인의 기수와 이름만 위의 양식에서 바꾸어 제출합니다.
-- 제출은 Assignment 폴더에 제출합니다.
+- 제출은 각 주차 과제 폴더에 제출합니다.
 
 
 |Week|과제|
@@ -72,14 +76,15 @@
 <hr/>
 
 ## Curriculum Directory
-* [1]()
-  * [2]()
-    * [3]()
-    * [4]()
-* [5]()
-  * [6]()
-    * [7]()
-  * [8]()
-    * [9]()
-* [10]()
-* [11]()
+* [1. Basic](https://github.com/nosy0411/Curriculum_for_FR_Coding/tree/master/1.%20Basic)
+  * [1-1. 1주차](https://github.com/nosy0411/Curriculum_for_FR_Coding/tree/master/1.%20Basic/1%EC%A3%BC%EC%B0%A8)
+  * [1-2. 2주차](https://github.com/nosy0411/Curriculum_for_FR_Coding/tree/master/1.%20Basic/2%EC%A3%BC%EC%B0%A8)
+  * [1-3. 3주차](https://github.com/nosy0411/Curriculum_for_FR_Coding/tree/master/1.%20Basic/3%EC%A3%BC%EC%B0%A8)
+  * [1-4. 4주차](https://github.com/nosy0411/Curriculum_for_FR_Coding/tree/master/1.%20Basic/4%EC%A3%BC%EC%B0%A8)
+* [2. Crawling](https://github.com/nosy0411/Curriculum_for_FR_Coding/tree/master/2.%20Crawling)
+  * [2-1. 5주차](https://github.com/nosy0411/Curriculum_for_FR_Coding/tree/master/2.%20Crawling/5%EC%A3%BC%EC%B0%A8)
+  * [2-2. 6주차](https://github.com/nosy0411/Curriculum_for_FR_Coding/tree/master/2.%20Crawling/6%EC%A3%BC%EC%B0%A8)
+* [3. Portfolio](https://github.com/nosy0411/Curriculum_for_FR_Coding/tree/master/3.%20Portfolio)
+  * [3-1. 7주차](https://github.com/nosy0411/Curriculum_for_FR_Coding/tree/master/3.%20Portfolio/7%EC%A3%BC%EC%B0%A8)
+  * [3-2. 8주차](https://github.com/nosy0411/Curriculum_for_FR_Coding/tree/master/3.%20Portfolio/8%EC%A3%BC%EC%B0%A8)
+  * [3-3. 9주차](https://github.com/nosy0411/Curriculum_for_FR_Coding/tree/master/3.%20Portfolio/9%EC%A3%BC%EC%B0%A8)
