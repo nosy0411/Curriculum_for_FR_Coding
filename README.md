@@ -44,7 +44,7 @@
 | **2주차** | 배열형 자료 numpy                                   | numpy_datastructure.ipynb                                       |
 | **3주차** | 파이썬 시각화 모듈 matplotlib 에 대한 이해와 사용법 | plot_method.ipynb                                               |
 | **4주차** | 데이터프레임 모듈 pandas                            | dataframe_practice.ipynb                                        |
-| **5주차** | 정적, 동적 크롤링 BeautifulSoup, Selenium           | static_and_dynamic_crawling.ipynb                               |
+| **5주차** | 정적, 동적 크롤링 BeautifulSoup, Selenium           | basic_crawling_practice.ipynb<br>static_and_dynamic_crawling.ipynb                               |
 | **6주차** | 한국은행 ecos api 사용법 및 Plotly 시각화           | ecos_kr_treasury_bond_rate.ipynb<br>bond_historical_graph.ipynb |
 | **7주차** | 기본 입출력, 주식데이터 파싱                        | input_and_ouput.ipynb<br>stock_data_parsing.ipynb               |
 | **8주차** | 자산평가모델, 성과지표측정                          | market_model_estimation.ipynb<br>performance_criterion.ipynb    |
