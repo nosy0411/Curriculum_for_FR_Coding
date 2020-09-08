@@ -64,8 +64,8 @@
 |Week|과제|
 |---|---|
 |**1주차**|[assignment_week1.ipynb](https://github.com/nosy0411/Curriculum_for_FR_Coding/blob/master/1.%20Basic/1%EC%A3%BC%EC%B0%A8/assignment_week1.ipynb)|
-|**2주차**|assignment_week2.ipynb|
-|**3주차**|assignment_week3.ipynb|
+|**2주차**|[assignment_week2.ipynb](https://github.com/nosy0411/Curriculum_for_FR_Coding/blob/master/1.%20Basic/2%EC%A3%BC%EC%B0%A8/assignment_week2.ipynb)|
+|**3주차**|[assignment_week3.ipynb](https://github.com/nosy0411/Curriculum_for_FR_Coding/blob/master/1.%20Basic/3%EC%A3%BC%EC%B0%A8/assignment_week3.ipynb)|
 |**4주차**|assignment_week4.ipynb|
 |**5주차**|assignment_week5.ipynb|
 |**6주차**|assignment_week6.ipynb|
