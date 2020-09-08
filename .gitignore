@@ -6,7 +6,7 @@
 *.ppt
 *.pptx
 *.dll
-*.exe
+# *.exe
 *.o
 *.so
 *.com
