@@ -1,7 +1,7 @@
 
 *.xlsx
 *.xls
-*.pdf
+# *.pdf
 *.docs
 *.ppt
 *.pptx
@@ -17,7 +17,7 @@
 *.tar
 *.zip
 *.gz
-*.db
+# *.db
 *.sql
 
 .Trashes
